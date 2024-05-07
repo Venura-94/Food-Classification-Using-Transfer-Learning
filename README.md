@@ -1,5 +1,7 @@
 # Food classification using Transfer Learning (InceptionResNetV2) 
 
+Data Set - https://www.kaggle.com/datasets/vermaavi/food11
+
 ## Objecttives of the model building project
 
 - Understand the theory and intuition behind Convolutional Neural Networks (CNNs).
